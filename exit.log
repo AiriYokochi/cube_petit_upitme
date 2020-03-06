@@ -1,0 +1,10 @@
+Mar  5 11:41:13 snow-queen apcupsd[1947]: apcupsd exiting, signal 15
+Mar  5 12:11:47 snow-queen apcupsd[1802]: apcupsd exiting, signal 15
+Mar  5 12:39:52 snow-queen apcupsd[1800]: apcupsd exiting, signal 15
+Mar  5 13:21:07 snow-queen apcupsd[1711]: apcupsd exiting, signal 15
+Mar  5 13:24:07 snow-queen rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="977" x-info="http://www.rsyslog.com"] exiting on signal 15.
+Mar  5 13:34:25 snow-queen apcupsd[1762]: apcupsd exiting, signal 15
+Mar  5 13:55:31 snow-queen apcupsd[1813]: apcupsd exiting, signal 15
+Mar  5 14:03:17 snow-queen apcupsd[1817]: apcupsd exiting, signal 15
+
+
