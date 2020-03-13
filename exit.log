@@ -22,3 +22,4 @@ Mar 9 10:49:57 snow-queen apcupsd[2183]: apcupsd exiting, signal 15
 Binary file (standard input) matches
 Mar 13 11:26:23 snow-queen 83haiku: debug: /dev/nvme0n1p1 is not a BeFS partition: exiting
 Mar 13 11:28:33 snow-queen apcupsd[1884]: apcupsd exiting, signal 15
+Mar 13 15:43:30 snow-queen 83haiku: debug: /dev/nvme0n1p1 is not a BeFS partition: exiting
